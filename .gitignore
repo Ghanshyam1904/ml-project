@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+# Add Environment
+env/
+.env
 
 # Distribution / packaging
 .Python
